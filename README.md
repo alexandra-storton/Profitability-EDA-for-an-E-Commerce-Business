@@ -4,12 +4,14 @@
 
 To identify key drivers of margin erosion and profitability through exploratory data analysis of order, customer, and product data to inform strategic business decisions.
 
+
 ## 💡 Business Context
 
 The business has experienced rapid expansion over the past two years, driven by aggressive promotional activity and product range diversification. Whilst revenue continues to grow, leadership has identified emerging profitability challenges at the product level. Existing reporting infrastructure focuses predominantly on order-level metrics, limiting visibility into the granular drivers of margin erosion—specifically pricing dynamics, promotional effectiveness, and product returns.
 
 
 ## ✅ Executive Summary
+
 Undifferentiated discounting and suboptimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial to improving profit margins.
 
 **1. Discount optimisation -** 38% of products show low discount sensitivity yet receive blanket discounts, resulting in over £550,000 in annual margin erosion. Removing discounts on these items would generate an estimated £127,593 in incremental profit, 13.5% margin uplift. An additional [X] products (6% of range) are discount-dependent with high return rates and require urgent review.
@@ -51,6 +53,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
  * Expected trends including higher priced items and first time buyers seeing higher returns are obsereved
  
  * There may be potential issues with the marketplace platform and US operations with both seeing higher return rates - further infomation should be collected on returns so we may paint a clearer picture of the issue.
+
 
 ## 🚀 Next Steps
 
