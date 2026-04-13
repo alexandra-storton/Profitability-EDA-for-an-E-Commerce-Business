@@ -1,4 +1,4 @@
-**Query 1 : Product Performance**
+Query 1 : Product Performance
 
 🔍 What this SQL is doing
 This query creates a master view that calculates profitability at the individual product level for every order. It transforms raw sales data into "Net Margin" by accounting for discounts and unit costs, while also creating a specific "returned item flag" to help the business identify which specific products and brands are driving the highest return rates.
