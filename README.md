@@ -48,6 +48,8 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 * Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin should be reviewed in the consolidation process with any products observing a <15% margin with >10% returns rate being flagged for urgent review.
 
+<img width="906" height="610" alt="Image" src="https://github.com/user-attachments/assets/ea716023-cd9c-400d-8ade-082c8ca7d3de" />
+
 **3. No clear driver of returns, have lower net impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
 
  * Return rate stable YoY at 6.8% in the last year, no notable seasonality trend or significant spikes.
