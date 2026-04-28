@@ -87,7 +87,7 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 **2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL reccomended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office.
 
-**3. Rationalise remanining categories to more profitable products -** >20% margin and return rates >=10% suggested to minimse loss from operational costs and those with >70% voulme sold at discount to minimse margin erosion from discounting.
+**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs and those with >70% voulme sold at discount to minimse margin erosion from discounting.
 
 <br>
 
