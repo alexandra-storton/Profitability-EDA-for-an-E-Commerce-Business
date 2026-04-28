@@ -10,6 +10,7 @@ To identify key drivers of margin erosion and profitability through exploratory 
 
 The business has experienced rapid expansion over the past two years, driven by aggressive promotional activity and product range diversification. Whilst revenue continues to grow, leadership has identified emerging profitability challenges at the product level. Existing reporting infrastructure focuses predominantly on order-level metrics, limiting visibility into the granular drivers of margin erosion—specifically pricing dynamics, promotional effectiveness, and product returns.
 
+<br>
 
 ## ✅ Executive Summary
 
@@ -19,12 +20,14 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 **2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with lower returns and lower discount dependancy. Electronics, Home, Health, and Office consistently erode margin with lower average margins, higher discount sensitivity and higher return rates. Strategic consolidation should target products with margins below 20%, with urgent review for products below 15% margin and an above 10% return rate. Sports should be invested in as a the core offering with addtional investment in beauty as it has the potential to become a profit driving category.
 
+<br>
 
 ## ⚙️ Tools Used
 
 * **SQL**: CTE's, Joins, Case, Window functions, Aggregate functions
 * **Tableau**: Table Calculations, Dashboard Creation, LOD's, Filters
     
+<br>
 
 ## 📊 Results & Recommendations
 
@@ -62,6 +65,7 @@ Graph : Shows Margin vs Discount Sensitivity. Sports and Beauty being high margi
  
  * There may be potential issues with the marketplace platform fit and US operations with both seeing higher return rates - further information should be collected on returns so we can paint a clearer picture of the issue.
 
+<br>
 
 ## 🚀 Next Steps
 
@@ -71,5 +75,6 @@ Graph : Shows Margin vs Discount Sensitivity. Sports and Beauty being high margi
 
 **3. Rationalise remanining categories to more profitable products -** >20% margin, return rates >10% suggested to minimse loss from operational costs.
 
+<br>
 
 ## 📈 Tableau Dashboard
