@@ -14,9 +14,9 @@ The business has experienced rapid expansion over the past two years, driven by 
 
 Undifferentiated discounting and suboptimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial next steps to improving profit margins.
 
-**1. Implement targeted discounting startegy -** 38% of products show low discount sensitivity yet experience blanket discounting, resulting in over £550,000 in revenue loss. Removing discounts on these items would generate an estimated £127,593 in incremental profit, 13.5% margin uplift. An additional [X] products (6% of range) are discount-dependent with high return rates and require urgent review.
+**1. Implement targeted discounting startegy -** 38% of products show low discount sensitivity yet experience blanket discounting, resulting in over £550,000 in revenue loss. Removing discounts on these items would generate an estimated £127,593 in incremental profit, 13.5% margin uplift. An additional 16 products (6% of range) are discount-dependent with high return rates and require urgent review.
 
-**2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** Sports (11.6% of revenue, 12.9% of profit,[X%] average margin) and Beauty ([X%] of revenue, [X%] of profit, 48.2% average margin) demonstrate superior unit economics with lower returns and lower discount dependancy. Electronics, Home, Health, and Office consistently erode margin with lower average margins, higher discount sensitivity and higher return rates. Strategic consolidation should target products with margins below 20%, with urgent review for products below 15% margin and an above 10% return rate. Sports should be invested in as a the core offering with addtional investment in beauty as it has the potential to become a profit driving category.
+**2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with lower returns and lower discount dependancy. Electronics, Home, Health, and Office consistently erode margin with lower average margins, higher discount sensitivity and higher return rates. Strategic consolidation should target products with margins below 20%, with urgent review for products below 15% margin and an above 10% return rate. Sports should be invested in as a the core offering with addtional investment in beauty as it has the potential to become a profit driving category.
 
 
 ## ⚙️ Tools Used
@@ -46,7 +46,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 * Beauty is structurally attractive but underinvested in, seeing an average gross margin of 48.2%. To test the potential of the category we should increase marketing and monitor the sales of a selection of high margin, low discount, low returns products. Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL suggested for their high margins, moderate sales and low return rates - minimising operational burden.
 
-* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin should be reviewed in the consolidation process with any products observing a <15% margin with >10% returns rate being flagges for urgentt review.
+* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin should be reviewed in the consolidation process with any products observing a <15% margin with >10% returns rate being flagged for urgent review.
 
   
 **3. No clear driver of returns, have lower net impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
@@ -55,7 +55,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
  * Expected trends including higher priced items and first time buyers seeing higher returns are obsereved.
  
- * There may be potential issues with the marketplace platform fit and US operations with both seeing higher return rates - further infomation should be collected on returns so we can paint a clearer picture of the issue.
+ * There may be potential issues with the marketplace platform fit and US operations with both seeing higher return rates - further information should be collected on returns so we can paint a clearer picture of the issue.
 
 
 ## 🚀 Next Steps
