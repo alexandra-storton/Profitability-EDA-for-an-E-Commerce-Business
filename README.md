@@ -4,6 +4,7 @@
 
 To identify key drivers of margin erosion and profitability through exploratory data analysis of order, customer, and product data to inform strategic business decisions.
 
+<br>
 
 ## 💡 Business Context
 
@@ -51,6 +52,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 <img width="906" height="610" alt="Image" src="https://github.com/user-attachments/assets/ea716023-cd9c-400d-8ade-082c8ca7d3de" />
 Graph : Shows Margin vs Discount Sensitivity. Sports and Beauty being high margin, low discount sensitivity. Electronics, Home, Health, and Office being low margin, high discount sensitivity.
 
+<br>
 
 **3. No clear driver of returns, have lower net impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
 
