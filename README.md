@@ -17,9 +17,11 @@ The business has experienced rapid expansion over the past two years, driven by 
 Undifferentiated discounting and suboptimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial next steps to improving profit margins.
 
 <br>
+
 **1. Implement targeted discounting startegy -** 38% of products show low discount sensitivity yet experience blanket discounting, resulting in over £550,000 in revenue loss. Removing discounts on these items would generate an estimated £127,593 in incremental profit, 13.5% margin uplift. An additional 16 products (6% of range) are discount-dependent with high return rates and require urgent review.
 
 <br>
+
 **2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with lower returns and lower discount dependancy. Electronics, Home, Health, and Office consistently erode margin with lower average margins, higher discount sensitivity and higher return rates. Strategic consolidation should target products with margins below 20%, with urgent review for products below 15% margin and an above 10% return rate. Sports should be invested in as a the core offering with addtional investment in beauty as it has the potential to become a profit driving category.
 
 <br>
@@ -34,6 +36,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 ## 📊 Results & Recommendations
 
 <br>
+
 **1. Shift blanket discounting startegy to focus on products which maintain margin and continue to shift volume when discounted.**
 
 * The average product has been sold at a 16.6% discount in the last year, with 24% of orders containing at least one loss leading item.
@@ -45,6 +48,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 * 6% of the range is discount dependant, in addition to being assosiated with higher return rates and margin erosion and should be reviewed immediatley.
   
 <br>
+
 **2. Focus on Sports and Beauty as core range, rationalise and minimise remaining categories.**
 * Sports & Beauty outperform on all profit levers with high margins, low return rates, and a lower reliance on discounting to drive sales.
 
@@ -59,6 +63,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 **Graph :** Shows Margin vs Discount Sensitivity. Sports and Beauty being high margin, low discount sensitivity. Electronics, Home, Health, and Office being low margin, high discount sensitivity.
 
 <br>
+
 **3. No clear driver of returns, have lower net impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
 
  * Return rate stable YoY at 6.8% in the last year, no notable seasonality trend or significant spikes.
