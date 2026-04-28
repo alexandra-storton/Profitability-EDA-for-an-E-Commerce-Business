@@ -57,7 +57,10 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 <br>
 
 <img width="1896" height="1034" alt="Image" src="https://github.com/user-attachments/assets/63b2d565-5b94-4ae5-b2aa-5c47d64c54aa" />
+
 **Graph:** Shows margin erosion due to returns and heavy discounting. Shows across categories approx 60% margin retained, 35% lost to discounting and 5% to returns.
+
+<br>
 
 **2. Focus on Sports and Beauty as core range, rationalise and minimise remaining categories.**
 * Sports & Beauty outperform on all profit levers with high margins, low return rates, and a lower reliance on discounting to drive sales.
