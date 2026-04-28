@@ -14,7 +14,7 @@ The business has experienced rapid expansion over the past two years, driven by 
 
 ## ✅ Executive Summary
 
-Undifferentiated discounting and suboptimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial next steps to improving profit margins.
+Undifferentiated discounting and sub-optimal range development are the primary drivers of margin erosion. Discount optimisation and category rebalancing are crucial next steps to improving profit margins.
 
 <br>
 
