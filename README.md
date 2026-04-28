@@ -4,8 +4,6 @@
 
 To identify key drivers of margin erosion and profitability through exploratory data analysis of order, customer, and product data to inform strategic business decisions.
 
-<br>
-
 ## 💡 Business Context
 
 The business has experienced rapid expansion over the past two years, driven by aggressive promotional activity and product range diversification. Whilst revenue continues to grow, leadership has identified emerging profitability challenges at the product level. Existing reporting infrastructure focuses predominantly on order-level metrics, limiting visibility into the granular drivers of margin erosion—specifically pricing dynamics, promotional effectiveness, and product returns.
@@ -18,7 +16,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 <br>
 
-**1. Implement targeted discounting startegy -** 38% of products show low discount sensitivity yet experience blanket discounting, resulting in over £550,000 in revenue loss. Removing discounts on these items would generate an estimated £127,593 in incremental profit, 13.5% margin uplift. An additional 16 products (6% of range) are discount-dependent with high return rates and require urgent review.
+**1. Implement targeted discounting startegy -** 38% of products show low discount sensitivity yet are being blanket discounted - resulting in over £550,000 in revenue loss. Removing discounts on these items would generate an estimated £127,593 in incremental profit, a 13.5% margin uplift. An additional 16 products (6% of range) are discount-dependent with high return rates and require urgent review.
 
 <br>
 
@@ -56,7 +54,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 * Beauty is structurally attractive but underinvested in, seeing an average gross margin of 48.2%. To test the potential of the category we should increase marketing and monitor the sales of a selection of high margin, low discount, low returns products. Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL suggested for their high margins, moderate sales and low return rates - minimising operational burden.
 
-* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin should be reviewed in the consolidation process with any products observing a <15% margin with >10% returns rate being flagged for urgent review.
+* Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin, >=10% return rates and high discount sensitivty should be reviewed.
 
 <img width="906" height="610" alt="Image" src="https://github.com/user-attachments/assets/ea716023-cd9c-400d-8ade-082c8ca7d3de" />
 
@@ -80,7 +78,7 @@ Undifferentiated discounting and suboptimal range development are the primary dr
 
 **2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL reccomended as trial products for their high margins, moderate volumes and low return rates.
 
-**3. Rationalise remanining categories to more profitable products -** >20% margin, return rates >10% suggested to minimse loss from operational costs.
+**3. Rationalise remanining categories to more profitable products -** >20% margin, high discount sensitivity and return rates >=10% suggested to minimse loss from operational costs.
 
 <br>
 
