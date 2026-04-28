@@ -56,6 +56,9 @@ Undifferentiated discounting and sub-optimal range development are the primary d
   
 <br>
 
+<img width="1896" height="1034" alt="Image" src="https://github.com/user-attachments/assets/63b2d565-5b94-4ae5-b2aa-5c47d64c54aa" />
+**Graph:** Shows margin erosion due to returns and heavy discounting. Shows across categories approx 60% margin retained, 35% lost to discounting and 5% to returns.
+
 **2. Focus on Sports and Beauty as core range, rationalise and minimise remaining categories.**
 * Sports & Beauty outperform on all profit levers with high margins, low return rates, and a lower reliance on discounting to drive sales.
 
@@ -65,7 +68,10 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 * Electronics, Home, Health and Office are the least healthy categories, consistently eroding margin in addition to high discount sensitivity and elevated returns. Other categories observed moderate performance. Any products with <20% margin, >=10% return rates and high discount sensitivty should be reviewed.
 
+<br>
+
 <img width="906" height="610" alt="Image" src="https://github.com/user-attachments/assets/ea716023-cd9c-400d-8ade-082c8ca7d3de" />
+
 
 **Graph :** Shows Margin vs Discount Sensitivity. Sports and Beauty being high margin, low discount sensitivity. Electronics, Home, Health, and Office being low margin, high discount sensitivity.
 
