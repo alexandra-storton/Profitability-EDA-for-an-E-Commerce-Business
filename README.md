@@ -4,6 +4,8 @@
 
 To identify key drivers of margin erosion and profitability through exploratory data analysis of order, customer, and product data to inform strategic business decisions.
 
+<br>
+
 ## 💡 Business Context
 
 The business has experienced rapid expansion over the past two years, driven by aggressive promotional activity and product range diversification. Whilst revenue continues to grow, leadership has identified emerging profitability challenges at the product level. Existing reporting infrastructure focuses predominantly on order-level metrics, limiting visibility into the granular drivers of margin erosion—specifically pricing dynamics, promotional effectiveness, and product returns.
