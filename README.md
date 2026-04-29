@@ -27,9 +27,9 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 **2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** 
 * Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with higher margins, lower returns and lower discount dependancy.
-* Electronics, Home, Health, and Office consistently erode margin with lower average margins, higher discount sensitivity and higher return rates.
-* Strategic consolidation should target products with margins below 20% and a return rate above 10% in addition to the 15 highly discounted items.
-* Sports should be invested in as the core offering whilst increasing investment in beauty as it has the potential to become a profit driving category.
+* Electronics, Home, Health, and Office erode margin with lower average margins, higher discount sensitivity and higher return rates.
+* Strategic consolidation should target products with margins below 20% and a return rate above 10% in addition.
+* Sports should be invested in as the core offering with increased investment into beauty as it has the potential to become a profit driving category.
 
 <br>
 
@@ -48,11 +48,9 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 * In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
 
-* While discounts are contributing to volume and profit, the blanket approach is unecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year.
+* While discounts are contributing to volume and revenue, the blanket approach is unecessarily eroding margin across several SKU's causing a loss of over £550,000 in revenue over the last year for low-sensitivity products (38% of range) - removing these disocunts will add an additional profit of £127,593, improving margin by 13.5% .
 
-* 38% of the range have no or low sensitivty to discounts. Assuming these discounts were removed and 90% of volume retained, there will be an expected additional profit of £127,593, improving margin by 13.5% .
-
-* 6% of the range is discount dependant, in addition to being assosiated with higher return rates and margin erosion and should be reviewed immediatley.
+* 6% of the range (15 items) is discount dependant and should be reviewed immediatley.
   
 <br>
 
@@ -92,12 +90,15 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 ## 🚀 Next Steps
 
-**1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an inital step, remove discounts from low-discount sensitivty products - measure and monitor effects.
+**1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an inital step, remove discounts from low-discount sensitivty products - measure and monitor effects to inform future testing.
 
-**2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL reccomended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office.
+**2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL reccomended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
 
-**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs and those with >70% voulme sold at discount to minimse margin erosion from discounting.
+**3. Rationalise remanining categories to more profitable products -** <20% margin and return rates >=10% suggested to minimse loss from operational costs in addition to those with >70% voulme sold at discount to minimse margin erosion from discounting.
 
 <br>
 
 ## 📈 Tableau Dashboard
+<br>
+
+https://public.tableau.com/app/profile/alexandra7258/viz/ProductPerformanceMarginDiscountSensitivity/MarginDiscountSensitivity?publish=yes
