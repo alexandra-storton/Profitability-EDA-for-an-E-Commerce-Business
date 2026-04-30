@@ -18,14 +18,14 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 <br>
 
-**1. Remove blanket discounting -** 
+**1. Remove blanket discounting.** 
 * In the last year the average product was sold at a 16.6% discount, with 24% of orders containing at least one loss making item.
 * 38% of products show low discount sensitivity yet are being blanket discounted - resulting in over £550,000 in revenue loss. Removing these discounts will generate an estimated £127,600 in profit, a 13.5% margin uplift.
 * 15 items (6% of range) are highly discount senstitive with >70% of volume being sold at a discount, 7 of which have a margin of <20% - these items should be reviewed immediately.
 
 <br>
 
-**2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office -** 
+**2. Invest in Sports and Beauty, rationalise Electronics, Home, Health & Office.** 
 * Sports (11.6% of revenue, 12.9% of profit, 31.1% average margin) and Beauty (7.8% of revenue, 8.2% of profit, 29.7% average margin) demonstrate superior unit economics with higher margins, lower returns and lower discount dependancy.
 * Electronics, Home, Health, and Office erode margin with lower average margins, higher discount sensitivity and higher return rates.
 * Strategic consolidation should target products with margins below 20% and a return rate above 10% in addition.
@@ -60,7 +60,7 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 <br>
 
-**2. Focus on Sports and Beauty as core range, rationalise and minimise remaining categories.**
+**2. Focus on Sports and Beauty as core range, rationalise and minimise underperforming categories.**
 * Sports & Beauty outperform on all profit levers with high margins, low return rates, and a lower reliance on discounting to drive sales.
 
 * Sports is already a material revenue and profit driver, contributing 11.6% of total revenue and 12.9% of total profit margin in the last year.
@@ -78,7 +78,7 @@ Undifferentiated discounting and sub-optimal range development are the primary d
 
 <br>
 
-**3. No clear driver of returns, have lower net impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
+**3. There is no clear driver of returns, having a lower impact on margin than discounts. Focus on range consolidation and discount stategy to improve margins.**
 
  * Return rate stable YoY at 6.8% in the last year, no notable seasonality trend or significant spikes.
 
