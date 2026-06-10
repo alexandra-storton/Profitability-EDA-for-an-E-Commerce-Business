@@ -89,7 +89,7 @@ The business has experienced rapid expansion over the past two years, driven by 
 
 ## 🚀 Next Steps
 
-**1. Develop Optimised Discounting Strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an initial step, remove discounts from low-discount sensitivity products - measure and monitor effects to inform future testing.
+**1. Develop optimised discounting strategy -** Using product-level discount sensitivity and margin thresholds to set strategy - as an initial step, remove discounts from low-discount sensitivity products - measure and monitor effects to inform future testing.
 
 **2. Increase marketing investment for Beauty -**  Hair Repair Shampoo Plus, Hydrating Face Cream and Cleansing Gel XL recommended as trial products for their high margins, moderate volumes and low return rates. Shift proportion of marketing budget from Electronics, Home, Health, and Office to Beauty expansion.
 
